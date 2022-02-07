@@ -14,7 +14,10 @@
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=ICamargoJ&show_icons=true&theme=ocean_dark&include_all_commits=true&count_private=true"/>
   <img height="126em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ICamargoJ&layout=compact&langs_count=7&theme=ocean_dark"/>
 </div>
-  <div style="display: inline_block"><br>
+  
+ <h3 align="center">Tecnologias que estudo/utilizo no momento:</h3>
+  
+<div align="center" style="display: inline_block"><br>
   <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
 </div>
 
