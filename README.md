@@ -8,8 +8,8 @@
 - ⚡ Fun fact: estou aprendendo a tocar alguns instrumentos
 <div align="center">
   <a href="https://github.com/ICamargoJ">
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=ICamargoJ&show_icons=true&theme=ocean_dark&include_all_commits=true&count_private=true"/>
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ICamargoJ&layout=compact&langs_count=7&theme=ocean_dark"/>
+  <img height="135em" src="https://github-readme-stats.vercel.app/api?username=ICamargoJ&show_icons=true&theme=ocean_dark&include_all_commits=true&count_private=true"/>
+  <img height="126em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ICamargoJ&layout=compact&langs_count=7&theme=ocean_dark"/>
 </div>
   <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
