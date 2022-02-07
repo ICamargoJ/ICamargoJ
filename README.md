@@ -1,5 +1,12 @@
 ## Olá, eu sou o ICamargoJ ou King 👑
 
+- 🌱 Atulmente estudando Python3
+- 🎮 Gamer
+- 📪 Contato: itamarjr_camargo@hotmail.com
+- 📷 Instagram: _morozovic
+- 😄 Pronomes: ele/dele
+- ⚡ Fun fact: estou aprendendo a tocar alguns instrumentos
+
 <div align="center">
   <a href="https://github.com/ICamargoJ">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ICamargoJ&show_icons=true&theme=ocean_dark&include_all_commits=true&count_private=true"/>
