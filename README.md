@@ -21,6 +21,7 @@
   <img align="center" alt="Camargo-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Camargo-html5" heigth="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/html5/html5-original-wordmark.svg">
 </div>
+  <img align="right" alt="Morozov-pic" height="150" style="border-radius:50px;" src="https://www.instagram.com/p/CZhsVOLO16I/">
 
 ##
 
