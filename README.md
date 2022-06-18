@@ -18,7 +18,7 @@
  <h3 align="center">Tecnologias que estudo/utilizo no momento:</h3>
   
 <div align="center" style="display: inline_block"><br>
-  <img align="center" alt="Camargo-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/python/python-plain-wordmark.svg">
+  <img align="center" alt="Camargo-Python" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/python/python-plain-wordmark.svg">
   <img align="center" alt="Camargo-html5" heigth="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/html5/html5-plain-wordmark.svg">
   <img align="center" alt="Camargo-css3" heigth="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/css3/css3-plain-wordmark.svg">
   
