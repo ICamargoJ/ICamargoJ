@@ -1,6 +1,6 @@
 ## Olá, eu sou o ICamargoJ ou King 👑
 
-- 🌱 Atulmente estudando Python3
+- 🌱 Atulmente estudando Python3 e HTML 5
 - 🎮 Gamer
 - 📪 Contato: itamarjr_camargo@hotmail.com
 - 📷 Instagram: _morozovic
